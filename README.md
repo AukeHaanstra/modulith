@@ -1,3 +1,9 @@
-# Readme
+# Modulith Readme
 
-![Initialize the project](img/SpringInitializr.png)
+## Steps
+
+- ![Initialize the project](img/SpringInitializr.png)
+
+- Add HA folder structure
+
+- Write a test first
