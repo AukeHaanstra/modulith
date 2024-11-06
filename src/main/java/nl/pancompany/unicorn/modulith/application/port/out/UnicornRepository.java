@@ -1,4 +1,10 @@
 package nl.pancompany.unicorn.modulith.application.port.out;
 
-public class UnicornRepository {
+import nl.pancompany.unicorn.modulith.application.domain.Unicorn;
+
+import java.util.UUID;
+
+public interface UnicornRepository {
+
+    Unicorn get(UUID unicornId);
 }
