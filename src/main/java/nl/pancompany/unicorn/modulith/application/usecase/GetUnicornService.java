@@ -2,8 +2,6 @@ package nl.pancompany.unicorn.modulith.application.usecase;
 
 import lombok.RequiredArgsConstructor;
 import nl.pancompany.unicorn.modulith.application.domain.Unicorn;
-import nl.pancompany.unicorn.modulith.application.port.in.GetUnicornUsecase;
-import nl.pancompany.unicorn.modulith.application.port.out.UnicornRepository;
 
 import java.util.UUID;
 

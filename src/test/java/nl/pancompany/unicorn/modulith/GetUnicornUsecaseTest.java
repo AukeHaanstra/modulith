@@ -1,7 +1,6 @@
 package nl.pancompany.unicorn.modulith;
 
 import nl.pancompany.unicorn.modulith.application.domain.Unicorn;
-import nl.pancompany.unicorn.modulith.application.port.in.GetUnicornUsecase;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

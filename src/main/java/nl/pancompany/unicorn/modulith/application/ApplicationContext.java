@@ -1,8 +1,6 @@
 package nl.pancompany.unicorn.modulith.application;
 
 import lombok.Getter;
-import nl.pancompany.unicorn.modulith.application.port.in.GetUnicornUsecase;
-import nl.pancompany.unicorn.modulith.application.port.out.UnicornRepository;
 import nl.pancompany.unicorn.modulith.application.usecase.GetUnicornService;
 
 @Getter
